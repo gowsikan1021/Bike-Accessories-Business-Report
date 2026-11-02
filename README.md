@@ -1,7 +1,7 @@
 # Bike Accessories Business Report 
 ## Project Objectives :
 
-Bike Accessories(2011 - 2016), Data Analyzed and Visualized in Power BI.
+Bike Accessories (2011–2016) – Small Dataset Analysis and Visualization Using MySQL and Power BI.
 
 <br>
 1. KPIS - Total Cost, Total Revenue, and Total Profit?
@@ -27,6 +27,13 @@ Dashboard :
 <br>
 <br>
 
+
+![image alt](https://github.com/gowsikan1021/Bike-Accessories-Business-Report/blob/809ecb3cc894aecc37707378f14d74448753121b/Screenshot%202026-11-02%20142814.png)
+<br>
+<p align="center">
+<br>
+<br>
+</p>
 
 ![image alt](https://github.com/gowsikan1021/Bike-Accessories-Business-Report/blob/809ecb3cc894aecc37707378f14d74448753121b/Screenshot%202026-11-02%20142814.png)
 <br>

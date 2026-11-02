@@ -5,18 +5,11 @@ Bike Accessories(2011 - 2016), Data Analyzed and Visualized in Power BI.
 
 <br>
 1. KPIS - Total Cost, Total Revenue, and Total Profit?
-
 2. Yearly order quantity, total sales, and revenue?
-3. 
-4. Product categories generate the highest revenue?
-5. 
-6. Total sales by gender?
-7. 
-8. Top 5 best-selling products?
-9. 
-10. Countries generate the highest revenue?
-11. 
-12. monthly revenue trend?
+3. Product categories generate the highest revenue?
+5. Total sales by gender?
+6. Top 5 best-selling products?
+7.Countries generate the highest revenue?
 <br>
 
 
